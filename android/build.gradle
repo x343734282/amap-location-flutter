@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.amap.flutter.location"
+    namespace "com.amap.location.amaplocationflutterplugin"
     compileSdkVersion 28
 
     defaultConfig {
