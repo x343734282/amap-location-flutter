@@ -27,7 +27,7 @@ flutter:
     # pluginClass: AmapLocationFlutterPlugin
     platforms:
       android:
-        package: com.amap.location.amaplocationflutterplugin
+#        package: com.amap.location.amaplocationflutterplugin
         pluginClass: AmapLocationFlutterPlugin
       ios:
         pluginClass: AmapLocationFlutterPlugin
